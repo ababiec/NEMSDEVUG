@@ -1,0 +1,3 @@
+SELECT * FROM myTable
+WHERE 1=1
+AND //
